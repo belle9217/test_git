@@ -6,4 +6,6 @@ the third time to add!
 new line£¡
 77777777777
 master999999999999999
+<<<<<<< HEAD
 master10101010
+chongtuÐÞ¸ÄÖ®ºó
